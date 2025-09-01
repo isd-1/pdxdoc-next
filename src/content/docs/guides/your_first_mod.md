@@ -6,27 +6,11 @@ title: 建立你的第一个 MOD
 
 :::danger[兼容提示]
 
-以下两种方法不兼容
+2.3版本为留档，两种方法不兼容
 
 :::
 
-### 2.3 及以前
-
-首先开启你的 stellaris 启动器，（由于现阶段的启动器中文显示有误，故截图使用英文版启动器）之后在界面内找到“**Mods**”>>>“**Mod tools**”在之后的弹窗之中，选择“**Create Mod**”.
-
-在第一项写上你自己 mod 的名称（例如我写的“test”），第二项写上装载这个 mod 的文件夹名称，一般建议和你的 mod 名称一致，方便之后修改或者其他操作。第三项是支持的版本，没有什么特殊需求一般是保持与本版本一致。**Mod tags** 是这个 mod 的标签，有很多可以选择的项目。
-
-当填写好这些之后，点击“**Create Mod**”，之后会在左下方显示这个 mod 被创建的路径（见图 3），如果不出现这样的信息，那么很有可能是因为文件名重复或者名字不规范，根据提示信息修改。当你做好这一步之后，那么进入该路径进行确认，比如我的路径是 `D:\Documents\Paradox Interactive\Stellaris\mod` ，可在图 4 见到确实创立了这个文件夹，以及相应名称的.mod 文件。
-
-![img](../../../assets/guides/your_first_mod.assets/your_first_mod.0.jpg)
-
-![img](../../../assets/guides/your_first_mod.assets/your_first_mod.1.jpg)
-
-![img](../../../assets/guides/your_first_mod.assets/your_first_mod.2.jpg)
-
-![img](../../../assets/guides/your_first_mod.assets/your_first_mod.3.jpg)
-
-### 2.4 及以后
+### 当前版本（2.4 及以后）
 
 首先，需要在你的 steam 库里面打开 stellaris 的启动器（废话），操作如下图
 
@@ -47,6 +31,22 @@ title: 建立你的第一个 MOD
 ![img](../../../assets/guides/your_first_mod.assets/your_first_mod.8.jpg)
 
 好了，现在你就成功的创建了一个 mod 了....虽然目前还没有实际上的内容。
+
+### 2.3 及以前
+
+首先开启你的 stellaris 启动器，（由于现阶段的启动器中文显示有误，故截图使用英文版启动器）之后在界面内找到“**Mods**”>>>“**Mod tools**”在之后的弹窗之中，选择“**Create Mod**”.
+
+在第一项写上你自己 mod 的名称（例如我写的“test”），第二项写上装载这个 mod 的文件夹名称，一般建议和你的 mod 名称一致，方便之后修改或者其他操作。第三项是支持的版本，没有什么特殊需求一般是保持与本版本一致。**Mod tags** 是这个 mod 的标签，有很多可以选择的项目。
+
+当填写好这些之后，点击“**Create Mod**”，之后会在左下方显示这个 mod 被创建的路径（见图 3），如果不出现这样的信息，那么很有可能是因为文件名重复或者名字不规范，根据提示信息修改。当你做好这一步之后，那么进入该路径进行确认，比如我的路径是 `D:\Documents\Paradox Interactive\Stellaris\mod` ，可在图 4 见到确实创立了这个文件夹，以及相应名称的.mod 文件。
+
+![img](../../../assets/guides/your_first_mod.assets/your_first_mod.0.jpg)
+
+![img](../../../assets/guides/your_first_mod.assets/your_first_mod.1.jpg)
+
+![img](../../../assets/guides/your_first_mod.assets/your_first_mod.2.jpg)
+
+![img](../../../assets/guides/your_first_mod.assets/your_first_mod.3.jpg)
 
 ## 通过直接修改（创建）一个新的文件夹和.mod 文件
 
